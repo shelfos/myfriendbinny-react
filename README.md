@@ -10,8 +10,8 @@ I created a main landing page with a header and menu on the left.  I also have a
 
 # Development Environment
 
-VSCode for the IDE
-I used React, Javascript, and CSS
+* VSCode for the IDE
+* I used React, Javascript, and CSS
 
 
 # Useful Websites
