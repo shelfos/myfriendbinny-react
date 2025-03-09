@@ -1,6 +1,6 @@
 # Overview
 
-This is a single-page web application built using React.  It's very basic so far - just a bin list and a page to enter new bins.  The hope is to make this a full-fledged web application that connects to a database for all the connectivity and data handling.
+This is a single-page web application built using React to track bin storage.  It's very basic so far - just a bin list and a page to enter new bins.  The hope is to make this a full-fledged web application that connects to a database for all the connectivity and data handling.
 
 [Software Demo Video](https://youtu.be/7NAzm7_pIX4)
 
@@ -24,7 +24,6 @@ I used React, Javascript, and CSS
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Learn React better
 * Connect to database
 * Add more functionality
